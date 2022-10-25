@@ -57,7 +57,7 @@
 
 ## 映像スキル
 #### 動画編集
-| DaVinci Resolve | [Youtube](https://www.youtube.com/channel/UCCzS-jNyzsQdeSylkcM4iLw)と[TikTok](https://www.tiktok.com/@_saku_ta)の動画編集に使用 |  |
+| DaVinci Resolve | [Youtube](https://www.youtube.com/channel/UCCzS-jNyzsQdeSylkcM4iLw)と[TikTok](https://www.tiktok.com/@_saku_ta)の動画編集に使用 | 2021年〜 |
 | :- | :- | :- |
 | CupCat | 簡単なショート動画や文字起こなどに使用 | 2021〜 |
 
