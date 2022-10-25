@@ -1,11 +1,18 @@
 # 職務経歴書
-
+| 指名 | 作田 陽樹 |
+| :- | :- | :- |
+| 年齢 | 19歳 |
+| ID | `sakutaharuki` |
+| [SNS](https://instabio.cc/3042611Dtv6s4) | HP, Youtube, Instagram, Twitter, TikTok |
+| 経験 |  |
+|  |  |
+|  |  |
 ## 個人データ
 
-  * 氏名：作田 陽樹
+  * 氏名：
   * 年齢：19歳
-  * ID　：`sakutaharuki`
-  * URL：https://instabio.cc/3042611Dtv6s4
+  * ID　：
+  * URL：
 
 ## 職務経歴
 
