@@ -1,3 +1,6 @@
+<!-- 
+リンクを別のページでできるようにHTMLで設定したい
+-->
 # 個人データ
 ## 基本情報
 | 最終更新日 | 2022-10-25 |
@@ -9,14 +12,14 @@
 | 職務経歴書 | [詳しい情報を見る](/README.md) |
 | スキルシート | [詳しい情報を見る](/skill-sheet.md) |
 
-## SNSなど|
-| [HP](https://instabio.cc/3042611Dtv6s4) | HP, , Instagram, Twitter, TikTok |
+## SNSなど
+| [ホームページ（HP）](https://sakuta21.wixsite.com/sakuta) | 作田陽樹の基本情報や活動 |
 | :- | :- |
-| [Youtube](https://instabio.cc/3042611Dtv6s4) | HP, Youtube, , Twitter, TikTok |
-| [Instagram](https://instabio.cc/3042611Dtv6s4) | HP, Youtube, Instagram, Twitter, TikTok |
-| [Twitter](https://instabio.cc/3042611Dtv6s4) | HP, Youtube, Instagram, Twitter, TikTok |
-| [TikTok](https://instabio.cc/3042611Dtv6s4) | HP, Youtube, Instagram, Twitter, Twitter |
-| [Facebook](https://instabio.cc/3042611Dtv6s4) | HP, Youtube, Instagram, Twitter, TikTok |
+| [Youtube](https://youtube.com/channel/UCCzS-jNyzsQdeSylkcM4iLw) | プログラミング講座など |
+| [Instagram](https://www.instagram.com/_saku_ta/) | 活動の最新情報など |
+| [Twitter](https://twitter.com/_saku_ta) | 活動の最新情報など |
+| [TikTok](https://www.tiktok.com/@_saku_ta) | 活動の最新情報など |
+| [Facebook](https://www.facebook.com/saku.haru.2021) | 活動の最新情報など |
 
 ## エンジニアとしての経験
 | 年齢 | 経験したこと |
