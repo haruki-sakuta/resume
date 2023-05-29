@@ -17,6 +17,7 @@
 | 居住地 | 埼玉県 |
 | エンジニアの実務歴 | 1年（2022年5月〜） |
 
+<!--
 ## SNSなど
 | [ホームページ（HP）](https://sakuta21.wixsite.com/sakuta) | 休止 |
 | :- | :- |
@@ -25,6 +26,7 @@
 | [Twitter](https://twitter.com/_saku_ta) | 活動の最新情報など |
 | [TikTok](https://www.tiktok.com/@_saku_ta) | 活動の最新情報など |
 | [Facebook](https://www.facebook.com/saku.haru.2021) | 活動の最新情報など |
+-->
 
 ## エンジニアとしての経験
 | 年齢 | 経験したこと |
