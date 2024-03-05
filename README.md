@@ -25,7 +25,7 @@
 | 契約形式 | 正社員 |
 | 担当業務 | モバイルアプリ開発 |
 | 担当フェーズ | 実装 |
-| 使用技術 | ReactNative |
+| 使用技術 | ReactNative(TypeScript, JavaScript) |
 | 使用ツール | GitHub, Backlog |
 | 内容 | ~~~ |
 
