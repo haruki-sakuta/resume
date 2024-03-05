@@ -32,7 +32,7 @@
 プログラミング言語などの経験 → [スキルシート](/skill-sheet.md)
 | 年齢 | 経験 |
 | :- | :- |
-| 20 | 1. フリーランスエンジニアとして活動<br>2. 〇〇へ就職<br>経験技術：Swift, SwiftUI, ReactNative |
+| 20 | 1. フリーランスエンジニアとして活動 <br>2. SESへ就職 <br>3. ReactNative案件に参画 <br>経験技術：Swift, SwiftUI, ReactNative |
 | 19 | 1. AIの専門学校へ入学<br>2. 専門学校を中退しフリーランスエンジニアとして活動<br>経験技術：Swift<br>学校で学んだ技術: 統計学, Java, JavaScript, Python, Oracle SQL, HTML5, CSS |
-| 18 | 1. 独学でプログラミングSwiftを習得<br>2. 個人でアプリ開発を6つほど作成<br>3. SEとして営業活動開始|
+| 18 | 1. 独学でプログラミング（Swift）を習得<br>2. 個人でアプリ開発を6つほど作成<br>3. SEとして営業活動開始 |
 
