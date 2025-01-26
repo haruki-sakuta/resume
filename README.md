@@ -24,7 +24,7 @@
 | :- | :- |
 | 契約形式 | 正社員, フルリモート |
 | 担当業務 | iOS & Andoid のモバイルアプリ開発（SE） |
-| 担当フェーズ | 基本設計, 詳細設計, 実装, 運用保守 |
+| 担当フェーズ | 実装, テスト |
 | 使用技術 | ・ReactNative（TypeScript, JavaScript） <br>・外部デバイスとのBLE通信 <br>・AWS Amplify v6, AWS Pinpoint（データ解析, Push通知） |
 | 使用ツール | Git, Backlog |
 | 内容 | 1. BLE接続で外部デバイスとペアリング <br>2. AWSとの連携 <br>3. アプリのシステムやUIUXを実装 |
