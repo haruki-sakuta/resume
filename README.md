@@ -24,6 +24,7 @@
 | :- | :- |
 | 契約形式 | 正社員, フルリモート |
 | 担当業務 | iOS & Andoid のモバイルアプリ開発（SE） |
+| 規模 | 6人ほど |
 | 担当フェーズ | 実装, テスト |
 | 使用技術 | ・ReactNative（TypeScript, JavaScript） <br>・外部デバイスとのBLE通信 <br>・AWS Amplify v6, AWS Pinpoint（データ解析, Push通知） |
 | 使用ツール | Git, Backlog |
