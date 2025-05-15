@@ -23,6 +23,7 @@
 | Swift / SwiftUI | 1年2ヶ月 | UI構築〜保守／新規アプリ両対応 |
 | React Native（TypeScript / JavaScript） | 1年6ヶ月 | BLE／AWS連携／マルチプラットフォーム対応 |
 | Flutter（Dart） | 実務経験なし | 個人開発でFirebaseを取り入れたアプリのリリース経験あり |
+|  |  |
 
 ### ☁️ クラウド・インフラ（1年1ヶ月）
 | 技術 | 実務経験 | 備考 |
@@ -32,10 +33,19 @@
 | Firebase | 1年1ヶ月 | GCM・クラッシュリティクス等を構築 |
 
 ### 🛠️ 使用ツール・環境
-- Git / GitHub（チーム開発でのブランチ運用に対応）
+- （チーム開発でのブランチ運用に対応）
 - Backlog（タスク管理、日報）
 - Figma（ワイヤーフレーム、UI作成・確認）
 
+### 🛠️ その他使用ツール・サービス
+- **バージョン管理・チーム開発**：Git / GitHub  
+- **開発環境・IDE**：Xcode／Android Studio／Cursor  
+- **AI補助・自動化ツール**：ChatGPT／Cursor（AI補完）／bolt（AIビルド支援）  
+- **バックエンド・インフラ**：Docker／Heroku／RevenueCat  
+- **収益化・通知プラットフォーム**：Google AdMob／RevenueCat  
+- **ホスティング・ファイル転送**：ConoHa Wing／FileZilla  
+- **UIデザインツール**：Figma  
+- **タスク管理ツール**：Backlog  
 ---
 
 ## 🎯 開発スタイル・強み
