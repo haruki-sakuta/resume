@@ -4,7 +4,7 @@
 ## 関連資料
 [個人データ](personal-data.md)  
 [スキルシート](/skill-sheet.md)  
-[個人アプリ一覧](./app-list.md)  
+[個人アプリ一覧](/app-list.md)  
 
 ## 👋 サマリー
 - モバイルアプリ（React Native／SwiftUI）を中心に複数の実務経験を持つエンジニア
