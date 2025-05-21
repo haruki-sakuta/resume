@@ -4,7 +4,7 @@
 ## 関連資料
 [職務経歴書](/README.md)  
 [個人データ](/personal-data.md)  
-[個人アプリ一覧](./app-list.md)  
+[個人アプリ一覧](/app-list.md)  
 
 ---
 
