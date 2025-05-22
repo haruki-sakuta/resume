@@ -20,10 +20,17 @@
 ### 📱 モバイルアプリ開発（3年5ヶ月）
 | 技術 | 実務経験 | 備考 |
 |------|------------|------|
-| Swift / SwiftUI | 3年5ヶ月 | UI構築〜保守／新規アプリ両対応 |
-| React Native（TypeScript / JavaScript） | 1年6ヶ月 | BLE／AWS連携／マルチプラットフォーム対応 |
-| Flutter（Dart） | 2年8ヶ月 | 個人開発でFirebaseを取り入れたアプリのリリース経験あり |
+| Swift / SwiftUI | 3年5ヶ月 | UI構築〜保守 / 新規アプリ両対応 |
+| React Native（TypeScript / JavaScript） | 1年6ヶ月 | BLE / AWS連携 / マルチプラットフォーム対応 |
+| Flutter（Dart） | 2年8ヶ月 | 個人開発でFirebaseを取り入れたアプリのリリース・運用 |
 |  |  |
+
+### フロントエンド（）
+| 技術 | 実務経験 | 備考 |
+|------|------------|------|
+| React | 1年6ヶ月 | 個人開発でHPを公開・運用 |
+| TypeScript | 1年6ヶ月 | ReactNative開発 / 個人開発でHPを公開・運用 |
+| JavaScript | 1年6ヶ月 | ReactNative開発 / 個人開発でHPを公開・運用 |
 
 ### ☁️ クラウド・インフラ（1年1ヶ月）
 | 技術 | 実務経験 | 備考 |
@@ -34,12 +41,13 @@
 
 ### 🛠️ その他使用ツール・サービス
 - **バージョン管理・チーム開発**：Git / GitHub  
-- **開発環境・IDE**：Xcode／Android Studio／Cursor  
-- **AI補助・自動化ツール**：ChatGPT／Cursor（AI補完）／bolt（AIビルド支援）  
-- **バックエンド・インフラ**：Docker／Heroku／RevenueCat  
-- **収益化・通知プラットフォーム**：Google AdMob／RevenueCat  
-- **ホスティング・ファイル転送**：ConoHa Wing／FileZilla  
-- **UIデザインツール**：Figma  
+- **開発環境・IDE**：Xcode / Android Studio / Cursor  
+- **AI補助・自動化ツール**：ChatGPT / Cursor（AI補完） / bolt（AIビルド支援）  
+- **バックエンド・インフラ**：Node.js / Docker / Heroku / RevenueCat
+- **パッケージ管理**：npm / yarn / RevenueCat  
+- **収益化・通知プラットフォーム**：Google AdMob / RevenueCat  
+- **ホスティング・ファイル転送**：ConoHa Wing / FileZilla  
+- **デザインツール**：Figma  
 - **タスク管理ツール**：Backlog  
 ---
 
@@ -56,6 +64,7 @@
 Swift（CALDIリリース日）：2021年10月
 Flutter（オールタイマーリリース日）：2022年1月
 Firebase（ドライファン+Todoアプリで継続）：2023-11月
+React（HP公開日）：2023年11月
 -->
 
 ## 🚘 その他
