@@ -4,7 +4,7 @@
 ## 関連資料
 [職務経歴書](/README.md)  
 [スキルシート](/skill-sheet.md)  
-[個人アプリ一覧](/app-list.md)  
+[個人アプリ一覧](/personal-results-list.md)  
 
 ## 基本情報
 氏名（ふりがな）：作田陽樹（さくたはるき）  
