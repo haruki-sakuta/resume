@@ -92,10 +92,9 @@
 **担当フェーズ**：実装、テスト、運用・保守  
 **使用技術**：SwiftUI／Swift  
 **使用ツール**：GitHub／Backlog  
-**アプリリンク**：  
-[ラクネコ](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%8D%E3%82%B3/id1476010855),  
-[ラクネコ Mobile](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%8D%E3%82%B3-mobile/id1492989447),  
-[ラクネコ Room](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%8D%E3%82%B3-room/id1536365902),  
+**アプリリンク**：[ラクネコ](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%8D%E3%82%B3/id1476010855), 
+[ラクネコ Mobile](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%8D%E3%82%B3-mobile/id1492989447), 
+[ラクネコ Room](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%8D%E3%82%B3-room/id1536365902), 
 [ラクネコ Room Plus](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%8D%E3%82%B3-room-plus/id6451476069)
 
 #### 🔧 担当業務と工夫・成果
