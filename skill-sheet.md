@@ -1,5 +1,5 @@
 # スキルシート
-最終更新日：2025-05
+最終更新日：2025-07
 
 ## 関連資料
 [職務経歴書](/README.md)  
@@ -17,32 +17,37 @@
 
 ## 🧑‍💻 技術スキル一覧
 
-### 📱 モバイルアプリ開発（3年5ヶ月）
+### 📱 モバイルアプリ開発（3年9ヶ月）
 | 技術 | 実務経験 | 備考 |
 |------|------------|------|
-| Swift / SwiftUI | 3年5ヶ月 | UI構築〜保守 / 新規アプリ両対応 |
-| React Native（TypeScript / JavaScript） | 1年6ヶ月 | BLE / AWS連携 / マルチプラットフォーム対応 |
-| Flutter（Dart） | 2年8ヶ月 | 個人開発でFirebaseを取り入れたアプリのリリース・運用 |
+| Swift / SwiftUI | 3年9ヶ月 | UI構築〜保守 / 新規アプリ両対応 |
+| React Native（TypeScript / JavaScript） | 1年8ヶ月 | BLE / AWS連携 / マルチプラットフォーム対応 |
+| Flutter（Dart） | 2年10ヶ月 | 個人開発でFirebaseを取り入れたアプリのリリース・運用 |
 |  |  |
 
-### 🧩 フロントエンド（1年6ヶ月）
+### 🧩 フロントエンド（1年10ヶ月）
 | 技術 | 実務経験 | 備考 |
 |------|------------|------|
-| React | 1年6ヶ月 | 個人開発でHPを公開・運用 |
-| TypeScript | 1年6ヶ月 | ReactNative開発 / 個人開発でHPを公開・運用 |
-| JavaScript | 1年6ヶ月 | ReactNative開発 / 個人開発でHPを公開・運用 |
+| React | 1年10ヶ月 | 個人開発でHPを公開・運用 |
+| TypeScript | 1年10ヶ月 | ReactNative開発 / 個人開発でHPを公開・運用 |
+| JavaScript | 1年10ヶ月 | ReactNative開発 / 個人開発でHPを公開・運用 |
 
-### ☁️ クラウド・インフラ（1年1ヶ月）
+### ☁️ クラウド・インフラ（1年8ヶ月）
 | 技術 | 実務経験 | 備考 |
 |------|------------|------|
 | AWS Amplify v6 | 1年1ヶ月 | Push通知・分析等を構築 |
 | AWS Pinpoint | 1年1ヶ月 | イベントトラッキングと通知施策を設計 |
-| Firebase | 1年6ヶ月 | GCM・クラッシュリティクス等を構築 |
+| Firebase | 1年8ヶ月 | GCM・クラッシュリティクス等を構築 |
+
+### 🗄️ データベース（1年2ヶ月）
+| 技術 | 実務経験 | 備考 |
+|------|------------|------|
+| SQLite | 1年2ヶ月 | 個人開発アプリのデータ管理で使用 |
 
 ### 🛠️ その他使用ツール・サービス
 - **バージョン管理・チーム開発**：Git / GitHub  
 - **開発環境・IDE**：Xcode / Android Studio / Cursor  
-- **AI補助・自動化ツール**：ChatGPT / Cursor（AI補完） / bolt（AIビルド支援）  
+- **AI補助・自動化ツール**：ChatGPT / Cursor（AI補完）
 - **バックエンド・インフラ**：Node.js / Docker / Heroku / RevenueCat
 - **パッケージ管理**：npm / yarn / RevenueCat  
 - **収益化・通知プラットフォーム**：Google AdMob / RevenueCat  
