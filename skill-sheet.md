@@ -20,8 +20,9 @@
 ### 📱 モバイルアプリ開発（3年9ヶ月）
 | 技術 | 実務経験 | 備考 |
 |------|------------|------|
-| Swift / SwiftUI | 3年9ヶ月 | UI構築〜保守 / 新規アプリ両対応 |
-| React Native（TypeScript / JavaScript） | 1年8ヶ月 | BLE / AWS連携 / マルチプラットフォーム対応 |
+| Swift | 3年9ヶ月 | 実装〜保守 |
+| SwiftUI | 2年7ヶ月 | 実装〜保守 / 新規アプリ対応 |
+| React Native（TypeScript / JavaScript） | 1年8ヶ月 | BLE / AWS連携 / Firebase |
 | Flutter（Dart） | 2年10ヶ月 | 個人開発でFirebaseを取り入れたアプリのリリース・運用 |
 |  |  |
 
