@@ -34,7 +34,7 @@
 -->
 
 ## 職務経歴
-### 📱 モバイルヘルスアプリ開発
+### 📱 ヘルスケアモバイルアプリのPoC開発
 **React NativeとHealthKit/Health Connectを活用し、iOS/Android両対応のヘルスアプリ開発に携わり、健康データ連携の技術知見を得た**
 
 **会社名**：[株式会社Ambient Lab](https://corp.ambient-lab.co.jp/)｜業務委託（フルリモート）  
